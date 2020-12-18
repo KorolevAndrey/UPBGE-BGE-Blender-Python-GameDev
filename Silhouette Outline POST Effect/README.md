@@ -1,7 +1,10 @@
 # Silhouette Outline POST Effect
 
-goaltoreach.png
+goal to reach :
+![](goaltoreach.png)
  
-1.png
+result 1:
+![](1.png)
 
-2.png
+result 2:
+![](2.png)
