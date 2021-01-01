@@ -1,6 +1,6 @@
 # Silhouette Outline POST Effect UPBGE / BGE
 
-goal to reach :
+image of goal to reach :
 ![](goaltoreach.png)
  
 result 1:
